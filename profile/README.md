@@ -8,11 +8,11 @@ Our team of experienced and certified cloud engineers can migrate your infrastru
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Next 22](https://www.vbridge.eu/blog/20221012-google-cloud-next/)
 - [Welcome Lieselot](https://www.vbridge.eu/blog/20221006-intern-lieselot/)
 - [Yes, we moved!](https://www.vbridge.eu/blog/20220722-we-moved/)
 - [Less JavaScript, Faster website - Astro](https://www.vbridge.eu/blog/202204-less-javascript-faster-website/)
 - [Bye bye VPS, hello cloud!](https://www.vbridge.eu/blog/202203-vpctocloud/)
-- [Google for Startups Cloud Program](https://www.vbridge.eu/blog/202203-gcp-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Our Socials
