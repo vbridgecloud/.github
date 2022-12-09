@@ -8,11 +8,11 @@ Our team of experienced and certified cloud engineers can migrate your infrastru
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Craft CMS at scale](https://www.vbridge.eu/blog/20221206-craft-serverless/)
 - [React Brussels](https://www.vbridge.eu/blog/20221014-react-brussels/)
 - [Google Cloud Next 22](https://www.vbridge.eu/blog/20221012-google-cloud-next/)
 - [Welcome Lieselot](https://www.vbridge.eu/blog/20221006-intern-lieselot/)
 - [Yes, we moved!](https://www.vbridge.eu/blog/20220722-we-moved/)
-- [Less JavaScript, Faster website - Astro](https://www.vbridge.eu/blog/202204-less-javascript-faster-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Our Socials
