@@ -8,8 +8,8 @@ Our team of experienced and certified cloud engineers can migrate your infrastru
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [SDWorx front-end challenge](https://www.vbridge.eu/blog/20230216-sdworx/)
 - [JSWorld 2023](https://www.vbridge.eu/blog/20230208-jsworld/)
+- [SDWorx front-end challenge](https://www.vbridge.eu/blog/20230216-sdworx/)
 - [Three ways to deploy containers on GCP](https://www.vbridge.eu/blog/20230213-three-ways-to-deploy-containers/)
 - [Running Craft CMS at scale](https://www.vbridge.eu/blog/20221206-craft-serverless/)
 - [React Brussels](https://www.vbridge.eu/blog/20221014-react-brussels/)
