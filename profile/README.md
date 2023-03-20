@@ -8,7 +8,7 @@ Our team of experienced and certified cloud engineers can migrate your infrastru
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s free and 10 other reasons to work with a Google Cloud partner](https://www.vbridge.eu/blog/20231206-gcp-partner-why/)
+- [It&#39;s free and 10 other reasons to work with a Google Cloud partner](https://www.vbridge.eu/blog/20230313-gcp-partner-why/)
 - [JSWorld 2023](https://www.vbridge.eu/blog/20230208-jsworld/)
 - [SDWorx front-end challenge](https://www.vbridge.eu/blog/20230216-sdworx/)
 - [Three ways to deploy containers on GCP](https://www.vbridge.eu/blog/20230213-three-ways-to-deploy-containers/)
