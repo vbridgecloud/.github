@@ -8,11 +8,11 @@ Our team of experienced and certified cloud engineers can migrate your infrastru
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep calm and your secrets secret](https://www.vbridge.eu/blog/20230831-gcp-secret-manager/)
 - [Green IT](https://www.vbridge.eu/blog/20230705-greenit/)
 - [Introducing the GCP CloudRun VPC Integration Module](https://www.vbridge.eu/blog/20230703-terraform-module/)
 - [It&#39;s free and 10 other reasons to work with a Google Cloud partner](https://www.vbridge.eu/blog/20231206-gcp-partner-why/)
 - [JSWorld 2023](https://www.vbridge.eu/blog/20230208-jsworld/)
-- [SDWorx front-end challenge](https://www.vbridge.eu/blog/20230216-sdworx/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Our Socials
