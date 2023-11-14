@@ -8,11 +8,11 @@ Our team of experienced and certified cloud engineers can migrate your infrastru
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerability scanning in Google Cloud](https://www.vbridge.eu/blog/20231112-gcp-container-scanning/)
 - [Craft CMS Meetup - scaling Craft with GCP](https://www.vbridge.eu/blog/20231003-craft-cms-meetup/)
 - [Keep calm and your secrets secret](https://www.vbridge.eu/blog/20230831-gcp-secret-manager/)
 - [Green IT](https://www.vbridge.eu/blog/20230705-greenit/)
 - [Introducing the GCP CloudRun VPC Integration Module](https://www.vbridge.eu/blog/20230703-terraform-module/)
-- [It&#39;s free and 10 other reasons to work with a Google Cloud partner](https://www.vbridge.eu/blog/20231206-gcp-partner-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Our Socials
