@@ -5,16 +5,6 @@
 With a passion for technology and automation, vBridge tackles cloud-related questions and challenges.
 Our team of experienced and certified cloud engineers can migrate your infrastructure and code into the future.
 
-## 📝 Latest Blogposts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing GCP machine types for price and performance](https://www.vbridge.eu/blog/20231220-cpu-types/)
-- [Vulnerability scanning in Google Cloud](https://www.vbridge.eu/blog/20231112-gcp-container-scanning/)
-- [Craft CMS Meetup - scaling Craft with GCP](https://www.vbridge.eu/blog/20231003-craft-cms-meetup/)
-- [Keep calm and your secrets secret](https://www.vbridge.eu/blog/20230831-gcp-secret-manager/)
-- [Green IT](https://www.vbridge.eu/blog/20230705-greenit/)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔗 Our Socials
 
 - [LinkedIn page](<https://www.linkedin.com/company/vbridgecloud/>)
